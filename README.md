@@ -34,7 +34,11 @@ Simple File Organizer is a Python-based terminal application that helps users to
 2. Download the application files from the repository.
 3. No additional libraries are required, as only built-in Python modules are used.
 
+## Git Repo link 
+https://github.com/Adi3214/t1a3
+
 ## Usage
 To use the application, navigate to the directory containing the script and run:
 ```bash
 python3 main.py
+
